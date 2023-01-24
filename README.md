@@ -1,30 +1,30 @@
 # FileHandling
 This is a **File Handler** made in C# there are 6 different methods/functions that are able to use within the code
 
->-FolderCreate()
+-FolderCreate()
 >
 >This creates a folder with a name
 
 
->-FileCreate()
+-FileCreate()
 >
 >This creates a text file with a name in the folder you've created
 
 
->-FileEdit()
+-FileEdit()
 >
 >This Means you can edit a file you've made
 
 
->-FileRead()
+-FileRead()
 >
 >This reads the file in its entirety
 
 
->-PathName()
+-PathName()
 >
 >Asks you for the path you want
 
->-FileName()
+-FileName()
 >
 >Ask you for the Filename you want
